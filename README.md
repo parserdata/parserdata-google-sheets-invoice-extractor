@@ -242,3 +242,11 @@ Run processNewInvoicesFlattened manually again and re-approve the script permiss
 ## 11. License
 
 MIT
+
+---
+
+## Need help or a custom setup?
+
+This repository is a reference example.
+
+If you need help tailoring it to your workflow, or want advice on a more advanced Parserdata API integration (custom schemas, scale, or production use), reach out to us: support@parserdata.com
