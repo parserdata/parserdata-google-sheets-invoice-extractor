@@ -16,6 +16,13 @@ It is implemented as a **Google Apps Script** attached to a Google Sheet and tri
 
 ---
 
+## Official ParserData pages
+
+- **API reference:** https://parserdata.com/parserdata-api
+- **Pricing:** https://parserdata.com/pricing
+
+---
+
 ## What you get
 
 The script:
